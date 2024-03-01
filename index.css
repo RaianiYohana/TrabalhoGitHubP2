@@ -1,3 +1,19 @@
+
+body{
+    align-items: center;
+
+}
+    
+button{
+    color:white;
+    background-color:black;
+}
+
+
+input{
+    width: 100px;
+    height: 20px;
+
 h1{
     color: red;
 }
@@ -9,4 +25,5 @@ p{
 img{
     width: 600px;
     height: 400px;
+
 }
