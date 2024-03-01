@@ -6,14 +6,13 @@ body{
     
 button{
     color:white;
-    background-color:red;
+    background-color:black;
 }
 
 
 input{
     width: 100px;
     height: 20px;
-}
 
 h1{
     color: red;
